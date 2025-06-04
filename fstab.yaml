@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/broeder-redstage/bruno-commerce-saas/
+    type: markup
+
+folders:
+  /products/: /products/default
